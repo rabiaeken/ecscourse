@@ -5,3 +5,4 @@ Kod-2:[Python Devam](https://colab.research.google.com/drive/1y7WVhUZwLofefoOMbg
 Kod-2.1.[Python Devam2](https://colab.research.google.com/drive/1u47mPVxgCTHHz6-wlB_kWjTk5hysczN-) <br>
 Kod-2.2[NumPy-1](https://colab.research.google.com/drive/1j4z6kb80znZxLm32evUq052ZVsYFBxG2#scrollTo=yrjF_9JGQ5MC) <br>
 Kod-3.1[NumPy-Pandas](https://colab.research.google.com/drive/10fa1uU_GVDgGmMxvIhIB8momDmJv5l90#scrollTo=Sy8RBOSnNkr7) <br>
+Kod-3.2-NB2[Tips Veri Seti - Restoran Bahşiş Analizi](https://colab.research.google.com/drive/1v5pNqhNP7Qlz3abrwHh3AYezJGq-iJJ0#scrollTo=cbUgpdRKgUX7) <br>
