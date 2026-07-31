@@ -13,3 +13,4 @@
 | 📅 Hafta 4 | 📖 Ders | Tips Veri Seti - Restoran Bahşiş Analizi | 💻 [Tips Veri Seti - Restoran Bahşiş Analizi](https://colab.research.google.com/drive/1v5pNqhNP7Qlz3abrwHh3AYezJGq-iJJ0#scrollTo=cbUgpdRKgUX7) |
 | 📅 Hafta 5 | 📖 Ders 1 | Titanic Veri Analizi ve Modelleme | 💻 [Titanic Veri Analizi ve Modelleme](https://www.kaggle.com/code/rabiaeken/vb-90-2-titanic-veri-seti-analizi) |
 | 📅 Hafta 5 | 📖 Ders 2 | TM Model Oluşturma ve Deploy (Web, Python, Android) | 💻 [TM Model Oluşturma ve Deploy (Web, Python, Android)](https://colab.research.google.com/drive/1l4ebQOMEkhF77ltHDzTCOEE_lCE6GjN5#scrollTo=U2_i1ooOzuHD) |
+| 📅 Hafta 6 |  Yarışma | Titanik Yarışması Skor Değerlendirme) | 💻 [Titanik Yarışması Skor Değerlendirme)](https://www.kaggle.com/competitions/titanic/submissions) |
