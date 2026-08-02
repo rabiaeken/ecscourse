@@ -17,3 +17,4 @@
 | 📅 Hafta 6 | 📖 Ders 2 | İkinci El Araç Fiyat Tahmin | 💻 [(İkinci El Araç Fiyat Tahmin)](https://colab.research.google.com/drive/1O7Yv0glgiExtXgIYh6GAa5Vv_jEaxef6#scrollTo=5e3oclPamsHJ) |
 | 📅 Hafta 7 | 📖 Ders 1 | İkinci El Araç Fiyat Tahmin Dosyası | 💻 [(İkinci El Araç Fiyat Tahmin Dosyası)](hhttps://github.com/rabiaeken/ecscourse/blob/main/model1/car_pipe.pkl) |
 | 📅 Hafta 7 | 📖 Ödev | 2. El Araç Fiyat Tahmin Sitesi Deployment | 💻 [(2. El Araç Fiyat Tahmin Sitesi Deployment)](https://huggingface.co/spaces/rabiaekenn/AracFiyatTahmin) |
+| 📅 Hafta 7 | 📖 Ders 2 | Gradio ile Basit Form Oluşturma & Google AGY| 🛠️ [(Colab Not Defteri)](https://colab.research.google.com/drive/11lxQRRfo-coWuGkcYKtwzxRKfUayKRIg#scrollTo=0_uJxk7mnAGd) |
