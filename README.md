@@ -15,3 +15,4 @@
 | 📅 Hafta 5 | 📖 Ders 2 | TM Model Oluşturma ve Deploy (Web, Python, Android) | 💻 [TM Model Oluşturma ve Deploy (Web, Python, Android)](https://colab.research.google.com/drive/1l4ebQOMEkhF77ltHDzTCOEE_lCE6GjN5#scrollTo=U2_i1ooOzuHD) |
 | 📅 Hafta 6 |  Yarışma | Titanik Yarışması Skor Değerlendirme) | 💻 [Titanik Yarışması Skor Değerlendirme)](https://www.kaggle.com/competitions/titanic/submissions) |
 | 📅 Hafta 6 | 📖 Ders 2 | İkinci El Araç Fiyat Tahmin | 💻 [(İkinci El Araç Fiyat Tahmin)](https://colab.research.google.com/drive/1O7Yv0glgiExtXgIYh6GAa5Vv_jEaxef6#scrollTo=5e3oclPamsHJ) |
+| 📅 Hafta 7 | 📖 Ders 1 | İkinci El Araç Fiyat Tahmin Dosyası | 💻 [(İkinci El Araç Fiyat Tahmin Dosyası)](hhttps://github.com/rabiaeken/ecscourse/blob/main/model1/car_pipe.pkl) |
