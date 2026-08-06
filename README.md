@@ -21,3 +21,4 @@
 | 📅 Hafta 7 | 📖 Ders 2 | Gradio ile Basit Form Oluşturma & Google AGY| 🛠️ [(Antigravity)](http://127.0.0.1:7860/) |
 | 📅 Hafta 7 | 📖 Ders 3 | Covid-Yarışan Grafikler| 🛠️ [(Covid-Yarışan Grafikler)](https://colab.research.google.com/drive/1FUec6E1N2BAmrstmW5jCc0ahU81A2VU2) |
 | 📅 Hafta 8 | 📖 Ders 1 | Topluluk Öğrenme Modelleri (Ensemble Learning)| 🛠️ [(Topluluk Öğrenme Modelleri (Ensemble Learning))](https://colab.research.google.com/drive/1QZ0jO6MUIbJrZN5QzGAexyRxcI9qWytY) |
+| 📅 Hafta 8 | 📖 Ders 2 | Adidas Zaman Serisi Analizi| 🛠️ [(Adidas Zaman Serisi Analizi)](https://colab.research.google.com/drive/17g10M3OvaMcrAh-GTOwFqgiq-qRXPJsC) |
