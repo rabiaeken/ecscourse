@@ -25,3 +25,4 @@
 | 📅 Hafta 7 | 📖 Ders 3-3 NB | Bing Arama Motoru ile Görsel indirmek| 🛠️ [(Bing Arama Motoru ile Görsel indirmek)](https://colab.research.google.com/drive/1RnwlDiUD9hBR_5mEWn2m1wImzQfD-lSb) |
 | 📅 Hafta 8 | 📖 Ders 1 | Topluluk Öğrenme Modelleri (Ensemble Learning)| 🛠️ [(Topluluk Öğrenme Modelleri (Ensemble Learning))](https://colab.research.google.com/drive/1QZ0jO6MUIbJrZN5QzGAexyRxcI9qWytY) |
 | 📅 Hafta 8 | 📖 Ders 2 | Adidas Zaman Serisi Analizi| 🛠️ [(Adidas Zaman Serisi Analizi)](https://colab.research.google.com/drive/17g10M3OvaMcrAh-GTOwFqgiq-qRXPJsC) |
+| 📅 Hafta 8 | 📖 Ders 3 | Öneri Sistemleri| 🛠️ [(Öneri Sistemleri)](https://colab.research.google.com/drive/1VaenLjNGDTmHh_ZIoyfLRzQjPORBuh-a#scrollTo=ecSv911LMOcR) |
