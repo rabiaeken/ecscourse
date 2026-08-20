@@ -26,3 +26,4 @@
 | 📅 Hafta 8 | 📖 Ders 1 | Topluluk Öğrenme Modelleri (Ensemble Learning)| 🛠️ [(Topluluk Öğrenme Modelleri (Ensemble Learning))](https://colab.research.google.com/drive/1QZ0jO6MUIbJrZN5QzGAexyRxcI9qWytY) |
 | 📅 Hafta 8 | 📖 Ders 2 | Adidas Zaman Serisi Analizi| 🛠️ [(Adidas Zaman Serisi Analizi)](https://colab.research.google.com/drive/17g10M3OvaMcrAh-GTOwFqgiq-qRXPJsC) |
 | 📅 Hafta 8 | 📖 Ders 3 | Öneri Sistemleri| 🛠️ [(Öneri Sistemleri)](https://colab.research.google.com/drive/1VaenLjNGDTmHh_ZIoyfLRzQjPORBuh-a#scrollTo=ecSv911LMOcR) |
+| 📅 Hafta 9 | 📖 Ders 1 | HF Model Çekme ve Kullanımı| 🛠️ [(HF Model Çekme ve Kullanımı)](https://colab.research.google.com/drive/13oGMFlH4jIabH4GqMGc8VV6Kd0JesHd2#scrollTo=OQrNAOYubXWk) |
