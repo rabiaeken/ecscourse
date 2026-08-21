@@ -30,3 +30,4 @@
 | 📅 Hafta 10 | 📖 Ders 1 | HF Duygu Analizi Modeli| 🛠️ [(HF Duygu Analizi Modeli)](https://colab.research.google.com/drive/18o3Sj4oTb6jchW2SG8jJSyxwmZIqF49P#scrollTo=tjxA6TFs0Cr_) |
 | 📅 Hafta 10 | 📖 Ders 2.1 | Gemini API Kullanımı| 🛠️ [(Gemini API Kullanımı)](https://colab.research.google.com/drive/1YuJf9zN8ykMThtnzc-LgpyslFzOT9GWW#scrollTo=tVwWh1ZD4XvU) |
 | 📅 Hafta 10 | 📖 Ders 2.2 | Gemini API Kullanımı| 🛠️ [(Gemini API Kullanımı)](https://colab.research.google.com/drive/1Q8TuQXbzPiAMG2zg1u1lHJNWEcF9IjKo#scrollTo=PGEPiIpe5DCH) |
+| 📅 Hafta 10 | 📖 Ders 3 | Haber Özetleme - HF Model| 🛠️ [(Haber Özetleme - HF Model)](https://colab.research.google.com/drive/1Gec1A5zOliJ7-WNPT2KavyAIlIAnlFCK#scrollTo=1nZh3FebEXpE) |
