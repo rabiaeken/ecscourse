@@ -31,3 +31,4 @@
 | 📅 Hafta 10 | 📖 Ders 2.1 | Gemini API Kullanımı| 🛠️ [(Gemini API Kullanımı)](https://colab.research.google.com/drive/1YuJf9zN8ykMThtnzc-LgpyslFzOT9GWW#scrollTo=tVwWh1ZD4XvU) |
 | 📅 Hafta 10 | 📖 Ders 2.2 | Gemini API Kullanımı| 🛠️ [(Gemini API Kullanımı)](https://colab.research.google.com/drive/1Q8TuQXbzPiAMG2zg1u1lHJNWEcF9IjKo#scrollTo=PGEPiIpe5DCH) |
 | 📅 Hafta 10 | 📖 Ders 3 | Haber Özetleme - HF Model| 🛠️ [(Haber Özetleme - HF Model)](https://colab.research.google.com/drive/1Gec1A5zOliJ7-WNPT2KavyAIlIAnlFCK#scrollTo=1nZh3FebEXpE) |
+| 📅 Hafta 12 | 📖 Ders 1 | Derin Öğrenme-MNIST-DL| 🛠️ [(Derin Öğrenme-MNIST-DL)](https://colab.research.google.com/drive/1hn2AaZqQlhDT4tEoOu_5mo-0c9mNV4YS#scrollTo=FG2YV_lKdXiw) |
